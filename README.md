@@ -219,4 +219,4 @@ OpenRCT2 is offered as a complete free version with all features and updates inc
 Ready to build your ultimate theme park? **Download OpenRCT2 free today and start your adventure!**
 
 ---
-**Last updated:** 2026-09-30 00:57:30 UTC
+**Last updated:** 2026-09-30 06:20:16 UTC
